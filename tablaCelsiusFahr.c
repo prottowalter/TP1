@@ -1,4 +1,6 @@
-/* Imprime una tabla de Celsius a Farenheit usando while*/
+/* Imprime una tabla de Celsius a Farenheit usando while
+   Protto, Walter Fabián
+   03/04/2015 */
   
 #include<stdio.h>
 
