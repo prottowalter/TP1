@@ -1,9 +1,8 @@
 /* Imprime una tabla de Celsius a Farenheit usando while*/
   
 #include<stdio.h>
-#include<windows.h>
 
-int main ()
+int main (void)
 	{
 	float fahr, celsius;
 	int lower, upper, step;
@@ -12,7 +11,7 @@ int main ()
 	upper = 300; /*Limite Inferior de la Tabla*/
 	step = 20; /*Paso del Fahr*/
 	
-	celsius = lower; /*Inicialización de la variable celsius*/	
+	celsius = lower; /*InicializaciÃ³n de la variable celsius*/	
 	
 	while (celsius <= upper)
 	{
